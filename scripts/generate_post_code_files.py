@@ -7,7 +7,8 @@ import os, sys
 import json, yaml
 
 def run():
-    f = '../files/postdk-post_codes.xls'
+    basedir = os.path.join(os.path.dirname(__file__), '..')
+    f = os.path.join(basedir, 'files/postdk-post_codes.xls')
     x = None
     try:
         os.stat(f)
@@ -28,8 +29,16 @@ def run():
     for i in range(2, s.nrows):
         data[int(s.row(i)[0].value)] = s.row(i)[1].value.strip()
 
-    json.dump(data, open('../output/postdk-post_codes.json', 'w'))
-    open('../output/postdk-post_codes.yaml', 'w').write(yaml.dump(data, default_flow_style=False))
+    json.dump(data, open(os.path.join(basedir, 'output/postdk-post_codes.json'), 'w'))
+    open(os.path.join(basedir, 'output/postdk-post_codes.yaml'), 'w').write(yaml.dump(data, default_flow_style=False))
+
+    csv = open(os.path.join(basedir, 'output/postdk-post_codes.csv'), 'w')
+    csv.write('post_code, name\n')
+
+    for postcode, name in data.items():
+        csv.write('{}, {}\n'.format(postcode, name))
+
+    csv.close()
 
 if __name__ == '__main__':
     run()
