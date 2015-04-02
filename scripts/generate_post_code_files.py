@@ -36,7 +36,7 @@ def run():
     csv.write('post_code, name\n')
 
     for postcode, name in data.items():
-        csv.write('{}, {}\n'.format(postcode, name))
+        csv.write('{}, "{}"\n'.format(postcode, name))
 
     csv.close()
 
