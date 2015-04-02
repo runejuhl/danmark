@@ -1,0 +1,1348 @@
+100: "T\xF3rshavn"
+110: "T\xF3rshavn"
+160: Argir
+165: Argir
+175: "Kirkjub\xF8ur"
+176: Velbastadur
+177: Sydradalur, Streymoy
+178: Nordradalur
+180: Kaldbak
+185: Kaldbaksbotnur
+186: Sund
+187: Hvitanes
+188: "Hoyv\xEDk"
+210: Sandur
+215: Sandur
+220: "Sk\xE1lav\xEDk"
+230: "H\xFAsav\xEDk"
+235: Dalur
+236: Skarvanes
+240: Skopun
+260: "Sk\xFAvoy"
+270: "N\xF3lsoy"
+280: Hestur
+285: Koltur
+286: "St\xF3ra Dimun"
+330: Stykkid
+335: Leynar
+336: "Sk\xE6llingur"
+340: "Kv\xEDv\xEDk"
+350: Vestmanna
+355: Vestmanna
+358: "V\xE1lur"
+360: "Sandav\xE1gur"
+370: "Midv\xE1gur"
+375: "Midv\xE1gur"
+380: "S\xF8rv\xE1gur"
+385: Vatnsoyrar
+386: "B\xF8ur"
+387: "G\xE1sadalur"
+388: Mykines
+400: Oyrarbakki
+405: Oyrarbakki
+410: "Kollafj\xF8rdur"
+415: Oyrareingir
+416: "Signab\xF8ur"
+420: "H\xF3sv\xEDk"
+430: "Hvalv\xEDk"
+435: Streymnes
+436: Saksun
+437: "Nesv\xEDk"
+438: Langasandur
+440: "Haldarsv\xEDk"
+445: "Tj\xF8rnuv\xEDk"
+450: Oyri
+460: "Nordsk\xE1li"
+465: "Svin\xE1ir"
+466: "Lj\xF3s\xE1"
+470: Eidi
+475: Funningur
+476: "Gj\xF3gv"
+477: "Funningsfj\xF8rdur"
+478: "Elduv\xEDk"
+480: "Sk\xE1li"
+485: "Sk\xE1lafj\xF8rdur"
+490: Strendur
+494: Innan Glyvur
+495: "Kolbanargj\xF3gv"
+496: Morskranes
+497: Selatrad
+510: "G\xF8ta"
+511: "G\xF8tugj\xF3gv"
+512: "Nordrag\xF8ta"
+513: "Sydrug\xF8ta"
+515: "G\xF8ta"
+520: "Leirv\xEDk"
+530: "Fuglafj\xF8rdur"
+535: "Fuglafj\xF8rdur"
+555: Scanning
+600: "Saltangar\xE1"
+610: "Saltangar\xE1"
+620: "Runav\xEDk"
+625: Glyvrar
+626: Lambareidi
+627: Lambi
+640: "Rituv\xEDk"
+645: "\xC6duv\xEDk"
+650: Toftir
+655: Nes, Eysturoy
+656: Saltnes
+660: "S\xF8ldarfj\xF8rdur"
+665: Skipanes
+666: "G\xF8tueidi"
+690: "Oyndarfj\xF8rdur"
+695: Hellur
+700: "Klaksv\xEDk"
+710: "Klaksv\xEDk"
+725: Nordoyri
+726: "\xC1nir"
+727: "\xC1rnafj\xF8rdur"
+730: Norddepil
+735: Depil
+736: Nordtoftir
+737: "M\xFAli"
+740: Hvannasund
+750: Vidareidi
+765: Svinoy
+766: Kirkja
+767: "Hattarv\xEDk"
+780: Kunoy
+785: Haraldssund
+795: Sydradalur, Kalsoy
+796: "H\xFAsar"
+797: Mikladalur
+798: "Tr\xF8llanes"
+800: "Tv\xF8royri"
+810: "Tv\xF8royri"
+825: Frodba
+826: "Trongisv\xE1gur"
+827: "\xD8rav\xEDk"
+850: Hvalba
+860: "Sandv\xEDk"
+870: "F\xE1mjin"
+877: "K\xF8benhavn C"
+892: "Sj\xE6lland USF P"
+893: "Sj\xE6lland USF B"
+894: Udbetaling
+897: "eBrevspr\xE6kken"
+899: Kommuneservice
+900: "V\xE1gur"
+910: "V\xE1gur"
+917: "K\xF8benhavns Pakkecenter"
+918: "K\xF8benhavns Pakke BRC"
+919: Returprint BRC
+925: "Nes, V\xE1gur"
+926: Lopra
+927: Akrar
+928: Vikarbyrgi
+929: "K\xF8benhavn C"
+950: Porkeri
+960: Hov
+970: Sumba
+999: "K\xF8benhavn C"
+1000: "K\xF8benhavn K"
+1001: "K\xF8benhavn K"
+1002: "K\xF8benhavn K"
+1003: "K\xF8benhavn K"
+1004: "K\xF8benhavn K"
+1005: "K\xF8benhavn K"
+1006: "K\xF8benhavn K"
+1007: "K\xF8benhavn K"
+1008: "K\xF8benhavn K"
+1009: "K\xF8benhavn K"
+1010: "K\xF8benhavn K"
+1011: "K\xF8benhavn K"
+1012: "K\xF8benhavn K"
+1013: "K\xF8benhavn K"
+1014: "K\xF8benhavn K"
+1015: "K\xF8benhavn K"
+1016: "K\xF8benhavn K"
+1017: "K\xF8benhavn K"
+1018: "K\xF8benhavn K"
+1019: "K\xF8benhavn K"
+1020: "K\xF8benhavn K"
+1021: "K\xF8benhavn K"
+1022: "K\xF8benhavn K"
+1023: "K\xF8benhavn K"
+1024: "K\xF8benhavn K"
+1025: "K\xF8benhavn K"
+1026: "K\xF8benhavn K"
+1045: "K\xF8benhavn K"
+1050: "K\xF8benhavn K"
+1051: "K\xF8benhavn K"
+1052: "K\xF8benhavn K"
+1053: "K\xF8benhavn K"
+1054: "K\xF8benhavn K"
+1055: "K\xF8benhavn K"
+1056: "K\xF8benhavn K"
+1057: "K\xF8benhavn K"
+1058: "K\xF8benhavn K"
+1059: "K\xF8benhavn K"
+1060: "K\xF8benhavn K"
+1061: "K\xF8benhavn K"
+1062: "K\xF8benhavn K"
+1063: "K\xF8benhavn K"
+1064: "K\xF8benhavn K"
+1065: "K\xF8benhavn K"
+1066: "K\xF8benhavn K"
+1067: "K\xF8benhavn K"
+1068: "K\xF8benhavn K"
+1069: "K\xF8benhavn K"
+1070: "K\xF8benhavn K"
+1071: "K\xF8benhavn K"
+1072: "K\xF8benhavn K"
+1073: "K\xF8benhavn K"
+1074: "K\xF8benhavn K"
+1092: "K\xF8benhavn K"
+1093: "K\xF8benhavn K"
+1095: "K\xF8benhavn K"
+1098: "K\xF8benhavn K"
+1100: "K\xF8benhavn K"
+1101: "K\xF8benhavn K"
+1102: "K\xF8benhavn K"
+1103: "K\xF8benhavn K"
+1104: "K\xF8benhavn K"
+1105: "K\xF8benhavn K"
+1106: "K\xF8benhavn K"
+1107: "K\xF8benhavn K"
+1110: "K\xF8benhavn K"
+1111: "K\xF8benhavn K"
+1112: "K\xF8benhavn K"
+1113: "K\xF8benhavn K"
+1114: "K\xF8benhavn K"
+1115: "K\xF8benhavn K"
+1116: "K\xF8benhavn K"
+1117: "K\xF8benhavn K"
+1118: "K\xF8benhavn K"
+1119: "K\xF8benhavn K"
+1120: "K\xF8benhavn K"
+1121: "K\xF8benhavn K"
+1122: "K\xF8benhavn K"
+1123: "K\xF8benhavn K"
+1124: "K\xF8benhavn K"
+1125: "K\xF8benhavn K"
+1126: "K\xF8benhavn K"
+1127: "K\xF8benhavn K"
+1128: "K\xF8benhavn K"
+1129: "K\xF8benhavn K"
+1130: "K\xF8benhavn K"
+1131: "K\xF8benhavn K"
+1140: "K\xF8benhavn K"
+1147: "K\xF8benhavn K"
+1148: "K\xF8benhavn K"
+1150: "K\xF8benhavn K"
+1151: "K\xF8benhavn K"
+1152: "K\xF8benhavn K"
+1153: "K\xF8benhavn K"
+1154: "K\xF8benhavn K"
+1155: "K\xF8benhavn K"
+1156: "K\xF8benhavn K"
+1157: "K\xF8benhavn K"
+1158: "K\xF8benhavn K"
+1159: "K\xF8benhavn K"
+1160: "K\xF8benhavn K"
+1161: "K\xF8benhavn K"
+1162: "K\xF8benhavn K"
+1163: "K\xF8benhavn K"
+1164: "K\xF8benhavn K"
+1165: "K\xF8benhavn K"
+1166: "K\xF8benhavn K"
+1167: "K\xF8benhavn K"
+1168: "K\xF8benhavn K"
+1169: "K\xF8benhavn K"
+1170: "K\xF8benhavn K"
+1171: "K\xF8benhavn K"
+1172: "K\xF8benhavn K"
+1173: "K\xF8benhavn K"
+1174: "K\xF8benhavn K"
+1175: "K\xF8benhavn K"
+1200: "K\xF8benhavn K"
+1201: "K\xF8benhavn K"
+1202: "K\xF8benhavn K"
+1203: "K\xF8benhavn K"
+1204: "K\xF8benhavn K"
+1205: "K\xF8benhavn K"
+1206: "K\xF8benhavn K"
+1207: "K\xF8benhavn K"
+1208: "K\xF8benhavn K"
+1209: "K\xF8benhavn K"
+1210: "K\xF8benhavn K"
+1211: "K\xF8benhavn K"
+1212: "K\xF8benhavn K"
+1213: "K\xF8benhavn K"
+1214: "K\xF8benhavn K"
+1215: "K\xF8benhavn K"
+1216: "K\xF8benhavn K"
+1217: "K\xF8benhavn K"
+1218: "K\xF8benhavn K"
+1219: "K\xF8benhavn K"
+1220: "K\xF8benhavn K"
+1221: "K\xF8benhavn K"
+1240: "K\xF8benhavn K"
+1250: "K\xF8benhavn K"
+1251: "K\xF8benhavn K"
+1252: "K\xF8benhavn K"
+1253: "K\xF8benhavn K"
+1254: "K\xF8benhavn K"
+1255: "K\xF8benhavn K"
+1256: "K\xF8benhavn K"
+1257: "K\xF8benhavn K"
+1258: "K\xF8benhavn K"
+1259: "K\xF8benhavn K"
+1260: "K\xF8benhavn K"
+1261: "K\xF8benhavn K"
+1263: "K\xF8benhavn K"
+1264: "K\xF8benhavn K"
+1265: "K\xF8benhavn K"
+1266: "K\xF8benhavn K"
+1267: "K\xF8benhavn K"
+1268: "K\xF8benhavn K"
+1270: "K\xF8benhavn K"
+1271: "K\xF8benhavn K"
+1291: "K\xF8benhavn K"
+1300: "K\xF8benhavn K"
+1301: "K\xF8benhavn K"
+1302: "K\xF8benhavn K"
+1303: "K\xF8benhavn K"
+1304: "K\xF8benhavn K"
+1306: "K\xF8benhavn K"
+1307: "K\xF8benhavn K"
+1308: "K\xF8benhavn K"
+1309: "K\xF8benhavn K"
+1310: "K\xF8benhavn K"
+1311: "K\xF8benhavn K"
+1312: "K\xF8benhavn K"
+1313: "K\xF8benhavn K"
+1314: "K\xF8benhavn K"
+1315: "K\xF8benhavn K"
+1316: "K\xF8benhavn K"
+1317: "K\xF8benhavn K"
+1318: "K\xF8benhavn K"
+1319: "K\xF8benhavn K"
+1320: "K\xF8benhavn K"
+1321: "K\xF8benhavn K"
+1322: "K\xF8benhavn K"
+1323: "K\xF8benhavn K"
+1324: "K\xF8benhavn K"
+1325: "K\xF8benhavn K"
+1326: "K\xF8benhavn K"
+1327: "K\xF8benhavn K"
+1328: "K\xF8benhavn K"
+1329: "K\xF8benhavn K"
+1350: "K\xF8benhavn K"
+1352: "K\xF8benhavn K"
+1353: "K\xF8benhavn K"
+1354: "K\xF8benhavn K"
+1355: "K\xF8benhavn K"
+1356: "K\xF8benhavn K"
+1357: "K\xF8benhavn K"
+1358: "K\xF8benhavn K"
+1359: "K\xF8benhavn K"
+1360: "K\xF8benhavn K"
+1361: "K\xF8benhavn K"
+1362: "K\xF8benhavn K"
+1363: "K\xF8benhavn K"
+1364: "K\xF8benhavn K"
+1365: "K\xF8benhavn K"
+1366: "K\xF8benhavn K"
+1367: "K\xF8benhavn K"
+1368: "K\xF8benhavn K"
+1369: "K\xF8benhavn K"
+1370: "K\xF8benhavn K"
+1371: "K\xF8benhavn K"
+1400: "K\xF8benhavn K"
+1401: "K\xF8benhavn K"
+1402: "K\xF8benhavn K"
+1403: "K\xF8benhavn K"
+1404: "K\xF8benhavn K"
+1406: "K\xF8benhavn K"
+1407: "K\xF8benhavn K"
+1408: "K\xF8benhavn K"
+1409: "K\xF8benhavn K"
+1410: "K\xF8benhavn K"
+1411: "K\xF8benhavn K"
+1412: "K\xF8benhavn K"
+1413: "K\xF8benhavn K"
+1414: "K\xF8benhavn K"
+1415: "K\xF8benhavn K"
+1416: "K\xF8benhavn K"
+1417: "K\xF8benhavn K"
+1418: "K\xF8benhavn K"
+1419: "K\xF8benhavn K"
+1420: "K\xF8benhavn K"
+1421: "K\xF8benhavn K"
+1422: "K\xF8benhavn K"
+1423: "K\xF8benhavn K"
+1424: "K\xF8benhavn K"
+1425: "K\xF8benhavn K"
+1426: "K\xF8benhavn K"
+1427: "K\xF8benhavn K"
+1428: "K\xF8benhavn K"
+1429: "K\xF8benhavn K"
+1430: "K\xF8benhavn K"
+1431: "K\xF8benhavn K"
+1432: "K\xF8benhavn K"
+1433: "K\xF8benhavn K"
+1434: "K\xF8benhavn K"
+1435: "K\xF8benhavn K"
+1436: "K\xF8benhavn K"
+1437: "K\xF8benhavn K"
+1438: "K\xF8benhavn K"
+1439: "K\xF8benhavn K"
+1440: "K\xF8benhavn K"
+1441: "K\xF8benhavn K"
+1448: "K\xF8benhavn K"
+1450: "K\xF8benhavn K"
+1451: "K\xF8benhavn K"
+1452: "K\xF8benhavn K"
+1453: "K\xF8benhavn K"
+1454: "K\xF8benhavn K"
+1455: "K\xF8benhavn K"
+1456: "K\xF8benhavn K"
+1457: "K\xF8benhavn K"
+1458: "K\xF8benhavn K"
+1459: "K\xF8benhavn K"
+1460: "K\xF8benhavn K"
+1461: "K\xF8benhavn K"
+1462: "K\xF8benhavn K"
+1463: "K\xF8benhavn K"
+1464: "K\xF8benhavn K"
+1465: "K\xF8benhavn K"
+1466: "K\xF8benhavn K"
+1467: "K\xF8benhavn K"
+1468: "K\xF8benhavn K"
+1470: "K\xF8benhavn K"
+1471: "K\xF8benhavn K"
+1472: "K\xF8benhavn K"
+1473: "K\xF8benhavn K"
+1500: "K\xF8benhavn V"
+1501: "K\xF8benhavn V"
+1502: "K\xF8benhavn V"
+1503: "K\xF8benhavn V"
+1504: "K\xF8benhavn V"
+1505: "K\xF8benhavn V"
+1506: "K\xF8benhavn V"
+1507: "K\xF8benhavn V"
+1508: "K\xF8benhavn V"
+1509: "K\xF8benhavn V"
+1510: "K\xF8benhavn V"
+1512: Returpost
+1513: Centraltastning
+1532: "K\xF8benhavn V"
+1533: "K\xF8benhavn V"
+1550: "K\xF8benhavn V"
+1551: "K\xF8benhavn V"
+1552: "K\xF8benhavn V"
+1553: "K\xF8benhavn V"
+1554: "K\xF8benhavn V"
+1555: "K\xF8benhavn V"
+1556: "K\xF8benhavn V"
+1557: "K\xF8benhavn V"
+1558: "K\xF8benhavn V"
+1559: "K\xF8benhavn V"
+1560: "K\xF8benhavn V"
+1561: "K\xF8benhavn V"
+1562: "K\xF8benhavn V"
+1563: "K\xF8benhavn V"
+1564: "K\xF8benhavn V"
+1566: "K\xF8benhavn V"
+1567: "K\xF8benhavn V"
+1568: "K\xF8benhavn V"
+1569: "K\xF8benhavn V"
+1570: "K\xF8benhavn V"
+1571: "K\xF8benhavn V"
+1572: "K\xF8benhavn V"
+1573: "K\xF8benhavn V"
+1574: "K\xF8benhavn V"
+1575: "K\xF8benhavn V"
+1576: "K\xF8benhavn V"
+1577: "K\xF8benhavn V"
+1592: "K\xF8benhavn V"
+1599: "K\xF8benhavn V"
+1600: "K\xF8benhavn V"
+1601: "K\xF8benhavn V"
+1602: "K\xF8benhavn V"
+1603: "K\xF8benhavn V"
+1604: "K\xF8benhavn V"
+1605: "K\xF8benhavn V"
+1606: "K\xF8benhavn V"
+1607: "K\xF8benhavn V"
+1608: "K\xF8benhavn V"
+1609: "K\xF8benhavn V"
+1610: "K\xF8benhavn V"
+1611: "K\xF8benhavn V"
+1612: "K\xF8benhavn V"
+1613: "K\xF8benhavn V"
+1614: "K\xF8benhavn V"
+1615: "K\xF8benhavn V"
+1616: "K\xF8benhavn V"
+1617: "K\xF8benhavn V"
+1618: "K\xF8benhavn V"
+1619: "K\xF8benhavn V"
+1620: "K\xF8benhavn V"
+1621: "K\xF8benhavn V"
+1622: "K\xF8benhavn V"
+1623: "K\xF8benhavn V"
+1624: "K\xF8benhavn V"
+1630: "K\xF8benhavn V"
+1631: "K\xF8benhavn V"
+1632: "K\xF8benhavn V"
+1633: "K\xF8benhavn V"
+1634: "K\xF8benhavn V"
+1635: "K\xF8benhavn V"
+1650: "K\xF8benhavn V"
+1651: "K\xF8benhavn V"
+1652: "K\xF8benhavn V"
+1653: "K\xF8benhavn V"
+1654: "K\xF8benhavn V"
+1655: "K\xF8benhavn V"
+1656: "K\xF8benhavn V"
+1657: "K\xF8benhavn V"
+1658: "K\xF8benhavn V"
+1659: "K\xF8benhavn V"
+1660: "K\xF8benhavn V"
+1661: "K\xF8benhavn V"
+1662: "K\xF8benhavn V"
+1663: "K\xF8benhavn V"
+1664: "K\xF8benhavn V"
+1665: "K\xF8benhavn V"
+1666: "K\xF8benhavn V"
+1667: "K\xF8benhavn V"
+1668: "K\xF8benhavn V"
+1669: "K\xF8benhavn V"
+1670: "K\xF8benhavn V"
+1671: "K\xF8benhavn V"
+1672: "K\xF8benhavn V"
+1673: "K\xF8benhavn V"
+1674: "K\xF8benhavn V"
+1675: "K\xF8benhavn V"
+1676: "K\xF8benhavn V"
+1677: "K\xF8benhavn V"
+1699: "K\xF8benhavn V"
+1700: "K\xF8benhavn V"
+1701: "K\xF8benhavn V"
+1702: "K\xF8benhavn V"
+1703: "K\xF8benhavn V"
+1704: "K\xF8benhavn V"
+1705: "K\xF8benhavn V"
+1706: "K\xF8benhavn V"
+1707: "K\xF8benhavn V"
+1708: "K\xF8benhavn V"
+1709: "K\xF8benhavn V"
+1710: "K\xF8benhavn V"
+1711: "K\xF8benhavn V"
+1712: "K\xF8benhavn V"
+1713: "K\xF8benhavn V"
+1714: "K\xF8benhavn V"
+1715: "K\xF8benhavn V"
+1716: "K\xF8benhavn V"
+1717: "K\xF8benhavn V"
+1718: "K\xF8benhavn V"
+1719: "K\xF8benhavn V"
+1720: "K\xF8benhavn V"
+1721: "K\xF8benhavn V"
+1722: "K\xF8benhavn V"
+1723: "K\xF8benhavn V"
+1724: "K\xF8benhavn V"
+1725: "K\xF8benhavn V"
+1726: "K\xF8benhavn V"
+1727: "K\xF8benhavn V"
+1728: "K\xF8benhavn V"
+1729: "K\xF8benhavn V"
+1730: "K\xF8benhavn V"
+1731: "K\xF8benhavn V"
+1732: "K\xF8benhavn V"
+1733: "K\xF8benhavn V"
+1734: "K\xF8benhavn V"
+1735: "K\xF8benhavn V"
+1736: "K\xF8benhavn V"
+1737: "K\xF8benhavn V"
+1738: "K\xF8benhavn V"
+1739: "K\xF8benhavn V"
+1749: "K\xF8benhavn V"
+1750: "K\xF8benhavn V"
+1751: "K\xF8benhavn V"
+1752: "K\xF8benhavn V"
+1753: "K\xF8benhavn V"
+1754: "K\xF8benhavn V"
+1755: "K\xF8benhavn V"
+1756: "K\xF8benhavn V"
+1757: "K\xF8benhavn V"
+1758: "K\xF8benhavn V"
+1759: "K\xF8benhavn V"
+1760: "K\xF8benhavn V"
+1761: "K\xF8benhavn V"
+1762: "K\xF8benhavn V"
+1763: "K\xF8benhavn V"
+1764: "K\xF8benhavn V"
+1765: "K\xF8benhavn V"
+1766: "K\xF8benhavn V"
+1770: "K\xF8benhavn V"
+1771: "K\xF8benhavn V"
+1772: "K\xF8benhavn V"
+1773: "K\xF8benhavn V"
+1774: "K\xF8benhavn V"
+1775: "K\xF8benhavn V"
+1777: "K\xF8benhavn V"
+1780: "K\xF8benhavn V"
+1782: "K\xF8benhavn V"
+1785: "K\xF8benhavn V"
+1786: "K\xF8benhavn V"
+1787: "K\xF8benhavn V"
+1790: "K\xF8benhavn V"
+1799: "K\xF8benhavn V"
+1800: Frederiksberg C
+1801: Frederiksberg C
+1802: Frederiksberg C
+1803: Frederiksberg C
+1804: Frederiksberg C
+1805: Frederiksberg C
+1806: Frederiksberg C
+1807: Frederiksberg C
+1808: Frederiksberg C
+1809: Frederiksberg C
+1810: Frederiksberg C
+1811: Frederiksberg C
+1812: Frederiksberg C
+1813: Frederiksberg C
+1814: Frederiksberg C
+1815: Frederiksberg C
+1816: Frederiksberg C
+1817: Frederiksberg C
+1818: Frederiksberg C
+1819: Frederiksberg C
+1820: Frederiksberg C
+1822: Frederiksberg C
+1823: Frederiksberg C
+1824: Frederiksberg C
+1825: Frederiksberg C
+1826: Frederiksberg C
+1827: Frederiksberg C
+1828: Frederiksberg C
+1829: Frederiksberg C
+1835: Frederiksberg C
+1850: Frederiksberg C
+1851: Frederiksberg C
+1852: Frederiksberg C
+1853: Frederiksberg C
+1854: Frederiksberg C
+1855: Frederiksberg C
+1856: Frederiksberg C
+1857: Frederiksberg C
+1860: Frederiksberg C
+1861: Frederiksberg C
+1862: Frederiksberg C
+1863: Frederiksberg C
+1864: Frederiksberg C
+1865: Frederiksberg C
+1866: Frederiksberg C
+1867: Frederiksberg C
+1868: Frederiksberg C
+1870: Frederiksberg C
+1871: Frederiksberg C
+1872: Frederiksberg C
+1873: Frederiksberg C
+1874: Frederiksberg C
+1875: Frederiksberg C
+1876: Frederiksberg C
+1877: Frederiksberg C
+1878: Frederiksberg C
+1879: Frederiksberg C
+1900: Frederiksberg C
+1901: Frederiksberg C
+1902: Frederiksberg C
+1903: Frederiksberg C
+1904: Frederiksberg C
+1905: Frederiksberg C
+1906: Frederiksberg C
+1908: Frederiksberg C
+1909: Frederiksberg C
+1910: Frederiksberg C
+1911: Frederiksberg C
+1912: Frederiksberg C
+1913: Frederiksberg C
+1914: Frederiksberg C
+1915: Frederiksberg C
+1916: Frederiksberg C
+1917: Frederiksberg C
+1920: Frederiksberg C
+1921: Frederiksberg C
+1922: Frederiksberg C
+1923: Frederiksberg C
+1924: Frederiksberg C
+1925: Frederiksberg C
+1926: Frederiksberg C
+1927: Frederiksberg C
+1928: Frederiksberg C
+1931: Frederiksberg C
+1950: Frederiksberg C
+1951: Frederiksberg C
+1952: Frederiksberg C
+1953: Frederiksberg C
+1954: Frederiksberg C
+1955: Frederiksberg C
+1956: Frederiksberg C
+1957: Frederiksberg C
+1958: Frederiksberg C
+1959: Frederiksberg C
+1960: Frederiksberg C
+1961: Frederiksberg C
+1962: Frederiksberg C
+1963: Frederiksberg C
+1964: Frederiksberg C
+1965: Frederiksberg C
+1966: Frederiksberg C
+1967: Frederiksberg C
+1970: Frederiksberg C
+1971: Frederiksberg C
+1972: Frederiksberg C
+1973: Frederiksberg C
+1974: Frederiksberg C
+2000: Frederiksberg
+2100: "K\xF8benhavn \xD8"
+2150: Nordhavn
+2200: "K\xF8benhavn N"
+2300: "K\xF8benhavn S"
+2400: "K\xF8benhavn NV"
+2412: Santa Claus/Julemanden
+2450: "K\xF8benhavn SV"
+2500: Valby
+2600: Glostrup
+2605: "Br\xF8ndby"
+2610: "R\xF8dovre"
+2620: Albertslund
+2625: "Vallensb\xE6k"
+2630: Taastrup
+2635: "Ish\xF8j"
+2640: Hedehusene
+2650: Hvidovre
+2660: "Br\xF8ndby Strand"
+2665: "Vallensb\xE6k Strand"
+2670: Greve
+2680: "Solr\xF8d Strand"
+2690: Karlslunde
+2700: "Br\xF8nsh\xF8j"
+2720: "Vanl\xF8se"
+2730: Herlev
+2740: Skovlunde
+2750: Ballerup
+2760: "M\xE5l\xF8v"
+2765: "Sm\xF8rum"
+2770: Kastrup
+2791: "Drag\xF8r"
+2800: Kongens Lyngby
+2820: Gentofte
+2830: Virum
+2840: Holte
+2850: "N\xE6rum"
+2860: "S\xF8borg"
+2870: "Dysseg\xE5rd"
+2880: "Bagsv\xE6rd"
+2900: Hellerup
+2920: Charlottenlund
+2930: Klampenborg
+2942: Skodsborg
+2950: "Vedb\xE6k"
+2960: Rungsted Kyst
+2970: "H\xF8rsholm"
+2980: Kokkedal
+2990: "Niv\xE5"
+3000: "Helsing\xF8r"
+3050: "Humleb\xE6k"
+3060: "Esperg\xE6rde"
+3070: Snekkersten
+3080: "Tik\xF8b"
+3100: "Hornb\xE6k"
+3120: "Dronningm\xF8lle"
+3140: "\xC5lsg\xE5rde"
+3150: "Helleb\xE6k"
+3200: Helsinge
+3210: Vejby
+3220: Tisvildeleje
+3230: "Gr\xE6sted"
+3250: Gilleleje
+3300: "Frederiksv\xE6rk"
+3310: "\xD8lsted"
+3320: "Sk\xE6vinge"
+3330: "G\xF8rl\xF8se"
+3360: Liseleje
+3370: Melby
+3390: Hundested
+3400: "Hiller\xF8d"
+3450: "Aller\xF8d"
+3460: "Birker\xF8d"
+3480: Fredensborg
+3490: "Kvistg\xE5rd"
+3500: "V\xE6rl\xF8se"
+3520: Farum
+3540: Lynge
+3550: Slangerup
+3600: Frederikssund
+3630: "J\xE6gerspris"
+3650: "\xD8lstykke"
+3660: "Stenl\xF8se"
+3670: "Veks\xF8 Sj\xE6lland"
+3700: "R\xF8nne"
+3720: Aakirkeby
+3730: "Nex\xF8"
+3740: Svaneke
+3751: "\xD8stermarie"
+3760: Gudhjem
+3770: Allinge
+3782: Klemensker
+3790: Hasle
+3900: Nuuk
+3905: Nuussuaq
+3910: Kangerlussuaq
+3911: Sisimiut
+3912: Maniitsoq
+3913: Tasiilaq
+3915: Kulusuk
+3919: Alluitsup Paa
+3920: Qaqortoq
+3921: Narsaq
+3922: Nanortalik
+3923: Narsarsuaq
+3924: Ikerasassuaq
+3930: Kangilinnguit
+3932: Arsuk
+3940: Paamiut
+3950: Aasiaat
+3951: Qasigiannguit
+3952: Ilulissat
+3953: Qeqertarsuaq
+3955: Kangaatsiaq
+3961: Uummannaq
+3962: Upernavik
+3964: Qaarsut
+3970: Pituffik
+3971: Qaanaaq
+3972: Station Nord
+3980: Ittoqqortoormiit
+3982: Mestersvig
+3984: Danmarkshavn
+3985: Constable Pynt
+3992: "Sl\xE6depatrulje Sirius"
+4000: Roskilde
+4030: Tune
+4040: Jyllinge
+4050: Skibby
+4060: "Kirke S\xE5by"
+4070: Kirke Hyllinge
+4100: Ringsted
+4129: Ringsted
+4130: "Viby Sj\xE6lland"
+4140: Borup
+4160: Herlufmagle
+4171: "Glums\xF8"
+4173: Fjenneslev
+4174: Jystrup Midtsj
+4180: "Sor\xF8"
+4190: Munke Bjergby
+4200: Slagelse
+4220: "Kors\xF8r"
+4230: "Sk\xE6lsk\xF8r"
+4241: Vemmelev
+4242: Boeslunde
+4243: Rude
+4250: Fuglebjerg
+4261: Dalmose
+4262: Sandved
+4270: "H\xF8ng"
+4281: "G\xF8rlev"
+4291: Ruds Vedby
+4293: Dianalund
+4295: Stenlille
+4296: Nyrup
+4300: "Holb\xE6k"
+4320: Lejre
+4330: "Hvals\xF8"
+4340: "T\xF8ll\xF8se"
+4350: "Ugerl\xF8se"
+4360: Kirke Eskilstrup
+4370: "Store Merl\xF8se"
+4390: "Vipper\xF8d"
+4400: Kalundborg
+4420: Regstrup
+4440: "M\xF8rk\xF8v"
+4450: Jyderup
+4460: Snertinge
+4470: "Sveb\xF8lle"
+4480: Store Fuglede
+4490: "Jerslev Sj\xE6lland"
+4500: "Nyk\xF8bing Sj"
+4520: Svinninge
+4532: Gislinge
+4534: "H\xF8rve"
+4540: "F\xE5revejle"
+4550: "Asn\xE6s"
+4560: Vig
+4571: Grevinge
+4572: "N\xF8rre Asmindrup"
+4573: "H\xF8jby"
+4581: "R\xF8rvig"
+4583: "Sj\xE6llands Odde"
+4591: "F\xF8llenslev"
+4592: "Sejer\xF8"
+4593: Eskebjerg
+4600: "K\xF8ge"
+4621: Gadstrup
+4622: Havdrup
+4623: Lille Skensved
+4632: "Bj\xE6verskov"
+4640: Faxe
+4652: "H\xE5rlev"
+4653: Karise
+4654: Faxe Ladeplads
+4660: Store Heddinge
+4671: "Str\xF8by"
+4672: Klippinge
+4673: "R\xF8dvig Stevns"
+4681: "Herf\xF8lge"
+4682: Tureby
+4683: "R\xF8nnede"
+4684: Holmegaard
+4690: Haslev
+4700: "N\xE6stved"
+4720: "Pr\xE6st\xF8"
+4733: "Tappern\xF8je"
+4735: Mern
+4736: "Karreb\xE6ksminde"
+4750: Lundby
+4760: Vordingborg
+4771: Kalvehave
+4772: "Langeb\xE6k"
+4773: Stensved
+4780: Stege
+4791: Borre
+4792: Askeby
+4793: "Bog\xF8 By"
+4800: "Nyk\xF8bing F"
+4840: "N\xF8rre Alslev"
+4850: "Stubbek\xF8bing"
+4862: Guldborg
+4863: Eskilstrup
+4871: Horbelev
+4872: Idestrup
+4873: "V\xE6ggerl\xF8se"
+4874: Gedser
+4880: Nysted
+4891: Toreby L
+4892: Kettinge
+4894: "\xD8ster Ulslev"
+4895: Errindlev
+4900: Nakskov
+4912: Harpelunde
+4913: Horslunde
+4920: "S\xF8llested"
+4930: Maribo
+4941: Bandholm
+4943: Torrig L
+4944: "Fej\xF8"
+4951: "N\xF8rreballe"
+4952: Stokkemarke
+4953: Vesterborg
+4960: Holeby
+4970: "R\xF8dby"
+4983: Dannemare
+4990: "Saksk\xF8bing"
+4992: "Midtsj\xE6lland USF P"
+5000: Odense C
+5029: Odense C
+5100: Odense C
+5200: Odense V
+5210: Odense NV
+5220: "Odense S\xD8"
+5230: Odense M
+5240: "Odense N\xD8"
+5250: Odense SV
+5260: Odense S
+5270: Odense N
+5290: Marslev
+5300: Kerteminde
+5320: Agedrup
+5330: Munkebo
+5350: Rynkeby
+5370: Mesinge
+5380: Dalby
+5390: Martofte
+5400: Bogense
+5450: Otterup
+5462: Morud
+5463: Harndrup
+5464: Brenderup Fyn
+5466: Asperup
+5471: "S\xF8nders\xF8"
+5474: Veflinge
+5485: Skamby
+5491: Blommenslyst
+5492: Vissenbjerg
+5500: Middelfart
+5540: Ullerslev
+5550: Langeskov
+5560: Aarup
+5580: "N\xF8rre Aaby"
+5591: Gelsted
+5592: Ejby
+5600: Faaborg
+5610: Assens
+5620: Glamsbjerg
+5631: Ebberup
+5642: Millinge
+5672: Broby
+5683: Haarby
+5690: Tommerup
+5700: Svendborg
+5750: Ringe
+5762: Vester Skerninge
+5771: Stenstrup
+5772: "Kv\xE6rndrup"
+5792: "\xC5rslev"
+5800: Nyborg
+5853: "\xD8rb\xE6k"
+5854: Gislev
+5856: Ryslinge
+5863: Ferritslev Fyn
+5871: "Fr\xF8rup"
+5874: Hesselager
+5881: "Sk\xE5rup Fyn"
+5882: Vejstrup
+5883: Oure
+5884: Gudme
+5892: Gudbjerg Sydfyn
+5900: "Rudk\xF8bing"
+5932: Humble
+5935: Bagenkop
+5953: "Tranek\xE6r"
+5960: Marstal
+5970: "\xC6r\xF8sk\xF8bing"
+5985: "S\xF8by \xC6r\xF8"
+6000: Kolding
+6040: Egtved
+6051: Almind
+6052: Viuf
+6064: Jordrup
+6070: Christiansfeld
+6091: Bjert
+6092: "S\xF8nder Stenderup"
+6093: "Sj\xF8lund"
+6094: Hejls
+6100: Haderslev
+6200: Aabenraa
+6230: "R\xF8dekro"
+6240: "L\xF8gumkloster"
+6261: Bredebro
+6270: "T\xF8nder"
+6280: "H\xF8jer"
+6300: "Gr\xE5sten"
+6310: Broager
+6320: Egernsund
+6330: Padborg
+6340: "Krus\xE5"
+6360: Tinglev
+6372: Bylderup-Bov
+6392: Bolderslev
+6400: "S\xF8nderborg"
+6430: Nordborg
+6440: Augustenborg
+6470: Sydals
+6500: Vojens
+6510: Gram
+6520: Toftlund
+6534: Agerskov
+6535: Branderup J
+6541: Bevtoft
+6560: Sommersted
+6580: Vamdrup
+6600: Vejen
+6621: Gesten
+6622: "B\xE6kke"
+6623: Vorbasse
+6630: "R\xF8dding"
+6640: Lunderskov
+6650: "Br\xF8rup"
+6660: Lintrup
+6670: Holsted
+6682: Hovborg
+6683: "F\xF8vling"
+6690: "G\xF8rding"
+6700: Esbjerg
+6701: Esbjerg
+6705: "Esbjerg \xD8"
+6710: Esbjerg V
+6715: Esbjerg N
+6720: "Fan\xF8"
+6731: "Tj\xE6reborg"
+6740: Bramming
+6752: Glejbjerg
+6753: "Agerb\xE6k"
+6760: Ribe
+6771: Gredstedbro
+6780: "Sk\xE6rb\xE6k"
+6792: "R\xF8m\xF8"
+6800: Varde
+6818: "\xC5rre"
+6823: Ansager
+6830: "N\xF8rre Nebel"
+6840: "Oksb\xF8l"
+6851: Janderup Vestj
+6852: Billum
+6853: Vejers Strand
+6854: Henne
+6855: Outrup
+6857: "Bl\xE5vand"
+6862: Tistrup
+6870: "\xD8lgod"
+6880: Tarm
+6893: Hemmet
+6900: Skjern
+6920: "Videb\xE6k"
+6933: "Kib\xE6k"
+6940: Lem St
+6950: "Ringk\xF8bing"
+6960: Hvide Sande
+6971: Spjald
+6973: "\xD8rnh\xF8j"
+6980: Tim
+6990: Ulfborg
+7000: Fredericia
+7007: Fredericia
+7017: Taulov Pakkecenter
+7018: Pakker TLP
+7029: Fredericia
+7080: "B\xF8rkop"
+7100: Vejle
+7120: "Vejle \xD8st"
+7130: Juelsminde
+7140: Stouby
+7150: Barrit
+7160: "T\xF8rring"
+7171: Uldum
+7173: Vonge
+7182: Bredsten
+7183: "Randb\xF8l"
+7184: Vandel
+7190: Billund
+7200: Grindsted
+7250: Hejnsvig
+7260: "S\xF8nder Omme"
+7270: Stakroge
+7280: "S\xF8nder Felding"
+7300: Jelling
+7321: Gadbjerg
+7323: Give
+7330: Brande
+7361: Ejstrupholm
+7362: Hampen
+7400: Herning
+7429: Herning
+7430: Ikast
+7441: Bording
+7442: Engesvang
+7451: Sunds
+7470: Karup J
+7480: Vildbjerg
+7490: Aulum
+7500: Holstebro
+7540: Haderup
+7550: "S\xF8rvad"
+7560: Hjerm
+7570: Vemb
+7600: Struer
+7620: Lemvig
+7650: "B\xF8vlingbjerg"
+7660: "B\xE6kmarksbro"
+7673: "Harbo\xF8re"
+7680: "Thybor\xF8n"
+7700: Thisted
+7730: Hanstholm
+7741: "Fr\xF8strup"
+7742: "Vesl\xF8s"
+7752: Snedsted
+7755: Bedsted Thy
+7760: Hurup Thy
+7770: Vestervig
+7790: Thyholm
+7800: Skive
+7830: Vinderup
+7840: "H\xF8jslev"
+7850: Stoholm Jyll
+7860: "Sp\xF8ttrup"
+7870: Roslev
+7884: Fur
+7900: "Nyk\xF8bing M"
+7950: Erslev
+7960: Karby
+7970: Redsted M
+7980: Vils
+7990: "\xD8ster Assels"
+7992: Sydjylland/Fyn USF P
+7993: Sydjylland/Fyn USF B
+7996: Fakturaservice
+7997: Fakturascanning
+7998: Statsservice
+7999: Kommunepost
+8000: Aarhus C
+8100: Aarhus C
+8200: Aarhus N
+8210: Aarhus V
+8220: Brabrand
+8229: "Risskov \xD8"
+8230: "\xC5byh\xF8j"
+8240: Risskov
+8245: "Risskov \xD8"
+8250: "Eg\xE5"
+8260: Viby J
+8270: "H\xF8jbjerg"
+8300: Odder
+8305: "Sams\xF8"
+8310: Tranbjerg J
+8320: "M\xE5rslet"
+8330: Beder
+8340: Malling
+8350: Hundslund
+8355: Solbjerg
+8361: Hasselager
+8362: "H\xF8rning"
+8370: Hadsten
+8380: Trige
+8381: Tilst
+8382: Hinnerup
+8400: Ebeltoft
+8410: "R\xF8nde"
+8420: Knebel
+8444: Balle
+8450: Hammel
+8462: Harlev J
+8464: Galten
+8471: Sabro
+8472: Sporup
+8500: Grenaa
+8520: Lystrup
+8530: "Hjortsh\xF8j"
+8541: "Sk\xF8dstrup"
+8543: Hornslet
+8544: "M\xF8rke"
+8550: "Ryomg\xE5rd"
+8560: Kolind
+8570: Trustrup
+8581: Nimtofte
+8585: Glesborg
+8586: "\xD8rum Djurs"
+8592: Anholt
+8600: Silkeborg
+8620: Kjellerup
+8632: Lemming
+8641: Sorring
+8643: Ans By
+8653: Them
+8654: Bryrup
+8660: Skanderborg
+8670: "L\xE5sby"
+8680: Ry
+8700: Horsens
+8721: "Daug\xE5rd"
+8722: Hedensted
+8723: "L\xF8sning"
+8732: "Hovedg\xE5rd"
+8740: "Br\xE6dstrup"
+8751: Gedved
+8752: "\xD8stbirk"
+8762: Flemming
+8763: "Rask M\xF8lle"
+8765: Klovborg
+8766: "N\xF8rre Snede"
+8781: Stenderup
+8783: Hornsyld
+8800: Viborg
+8830: Tjele
+8831: "L\xF8gstrup"
+8832: Skals
+8840: "R\xF8dk\xE6rsbro"
+8850: Bjerringbro
+8860: Ulstrup
+8870: "Lang\xE5"
+8881: "Thors\xF8"
+8882: "F\xE5rvang"
+8883: Gjern
+8900: Randers C
+8920: Randers NV
+8930: "Randers N\xD8"
+8940: Randers SV
+8950: "\xD8rsted"
+8960: "Randers S\xD8"
+8961: "Alling\xE5bro"
+8963: Auning
+8970: Havndal
+8981: Spentrup
+8983: Gjerlev J
+8990: "F\xE5rup"
+9000: Aalborg
+9029: Aalborg
+9100: Aalborg
+9200: Aalborg SV
+9210: "Aalborg S\xD8"
+9220: "Aalborg \xD8st"
+9230: Svenstrup J
+9240: Nibe
+9260: Gistrup
+9270: Klarup
+9280: Storvorde
+9293: Kongerslev
+9300: "S\xE6by"
+9310: Vodskov
+9320: Hjallerup
+9330: Dronninglund
+9340: Asaa
+9352: Dybvad
+9362: Gandrup
+9370: Hals
+9380: Vestbjerg
+9381: Sulsted
+9382: Tylstrup
+9400: "N\xF8rresundby"
+9430: Vadum
+9440: Aabybro
+9460: Brovst
+9480: "L\xF8kken"
+9490: Pandrup
+9492: Blokhus
+9493: Saltum
+9500: Hobro
+9510: Arden
+9520: "Sk\xF8rping"
+9530: "St\xF8vring"
+9541: Suldrup
+9550: Mariager
+9560: Hadsund
+9574: "B\xE6lum"
+9575: Terndrup
+9600: Aars
+9610: "N\xF8rager"
+9620: Aalestrup
+9631: Gedsted
+9632: "M\xF8ldrup"
+9640: "Fars\xF8"
+9670: "L\xF8gst\xF8r"
+9681: Ranum
+9690: Fjerritslev
+9700: "Br\xF8nderslev"
+9740: Jerslev J
+9750: "\xD8stervr\xE5"
+9760: "Vr\xE5"
+9800: "Hj\xF8rring"
+9830: "T\xE5rs"
+9850: Hirtshals
+9870: Sindal
+9881: Bindslev
+9900: Frederikshavn
+9940: "L\xE6s\xF8"
+9970: Strandby
+9981: Jerup
+9982: "\xC5lb\xE6k"
+9990: Skagen
+9992: Jylland USF P
+9993: Jylland USF B
+9996: Fakturaservice
+9997: Fakturascanning
+9998: Borgerservice
